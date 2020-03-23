@@ -1,3 +1,7 @@
+Its a simple monster master web-app create with react. I use the example from: [Dave világa - Monsters - Frontend Gyakorló Projekt](https://www.youtube.com/watch?v=Ms6VEA5bTQQ&t=29s).
+I created it for exercise and may refactor it later.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
